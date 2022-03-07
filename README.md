@@ -1,4 +1,4 @@
-# draw-ellipse-with-turtle
+# draw ellipse with turtle
 
 <img src="./ellipse-result.png"  width="350" title="draw-ellipse-with-turtle"/>
 
